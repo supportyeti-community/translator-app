@@ -3,4 +3,4 @@ flask-socketio
 deep-translator
 gtts
 eventlet
-gunicorn
+gunicorn==21.2.0
