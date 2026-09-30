@@ -1,0 +1,6 @@
+flask
+flask-socketio
+deep-translator
+gtts
+eventlet
+gunicorn
